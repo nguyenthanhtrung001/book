@@ -4,4 +4,4 @@ def say_hello():
 
 
 # Gọi hàm say_hello để in ra "Hello, World!"
-say_hello()
+say_hello(

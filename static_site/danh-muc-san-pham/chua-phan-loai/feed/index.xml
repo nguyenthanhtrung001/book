@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; Web bán hàng</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Bán hàng tại đây</description>
+	<lastBuildDate>Wed, 19 Jun 2024 18:35:14 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Thơ về bà</title>
+		<link>./../../san-pham/tho-ve-ba/index.html</link>
+					<comments>./../../san-pham/tho-ve-ba/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[thanhtrung]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 18:33:47 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product#038;p=69</guid>
+
+					<description><![CDATA[Trong cuộc sống hối hả và bận rộn, đôi khi tôi tự hỏi điều gì làm cho tâm hồn mình luôn ấm áp và tràn đầy niềm tin. Câu trả lời luôn hiện lên một cách rõ ràng và đơn giản: đó là bà &#8211; người giữ lửa yêu thương trong gia đình.]]></description>
+										<content:encoded><![CDATA[<p>Trong cuộc sống hối hả và bận rộn, đôi khi tôi tự hỏi điều gì làm cho tâm hồn mình luôn ấm áp và tràn đầy niềm tin. Câu trả lời luôn hiện lên một cách rõ ràng và đơn giản: đó là bà &#8211; người giữ lửa yêu thương trong gia đình.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../san-pham/tho-ve-ba/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trạng Quỷnh</title>
+		<link>./../../san-pham/trang-quynh/index.html</link>
+					<comments>./../../san-pham/trang-quynh/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[thanhtrung]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 18:18:50 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product#038;p=67</guid>
+
+					<description><![CDATA[Trạng Quỷnh là một nhân vật truyện tranh nổi tiếng tại Việt Nam, được sáng tác bởi nhà văn Kim Khánh và họa sĩ Đào Hải. Truyện xoay quanh các cuộc phiêu lưu hài hước và thông minh của cậu bé Quỷnh, sống vào thời phong kiến.]]></description>
+										<content:encoded><![CDATA[<p><strong>Trạng Quỷnh</strong> là một nhân vật truyện tranh nổi tiếng tại Việt Nam, được sáng tác bởi nhà văn Kim Khánh và họa sĩ Đào Hải. Truyện xoay quanh các cuộc phiêu lưu hài hước và thông minh của cậu bé Quỷnh, sống vào thời phong kiến.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../san-pham/trang-quynh/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sách thiếu nhi</title>
+		<link>./../../san-pham/sach-thieu-nhi/index.html</link>
+					<comments>./../../san-pham/sach-thieu-nhi/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[thanhtrung]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 15:20:25 +0000</pubDate>
+				<guid isPermaLink="false">http://book.com/?post_type=product&#038;p=60</guid>
+
+					<description><![CDATA[Câu chuyện cảm động về tình bạn giữa Wilbur, một chú lợn, và Charlotte, một con nhện. Charlotte cố gắng cứu Wilbur khỏi bị giết thịt bằng cách viết những từ đặc biệt trên mạng nhện của mình.]]></description>
+										<content:encoded><![CDATA[<p>Câu chuyện cảm động về tình bạn giữa Wilbur, một chú lợn, và Charlotte, một con nhện. Charlotte cố gắng cứu Wilbur khỏi bị giết thịt bằng cách viết những từ đặc biệt trên mạng nhện của mình.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../san-pham/sach-thieu-nhi/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

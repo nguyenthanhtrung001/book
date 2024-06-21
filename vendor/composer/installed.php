@@ -3,7 +3,7 @@
         'name' => 'abc/book-cicd',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '78dffff1b8caeb459b59a5a032480a7b4c297fe7',
+        'reference' => '5ccc69db676091c0e46711aec95371185f6aaf42',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'abc/book-cicd' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '78dffff1b8caeb459b59a5a032480a7b4c297fe7',
+            'reference' => '5ccc69db676091c0e46711aec95371185f6aaf42',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
